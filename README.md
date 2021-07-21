@@ -1,1 +1,2 @@
 DIR SHCOLL
+local ok
